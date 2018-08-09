@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>Input1.txt 3 https://batchstdemo.blob.core.windows.net/manualoutput%3fsv=2018-03-28&amp;sr=c&amp;sig=mj9qwib1NGLkESdIf9FM7tC%252F4qv5MhCTG0t4dW1TTjU%253D&amp;se=2018-08-09T06%253A19%253A57Z&amp;sp=wl</StartArguments>
+  </PropertyGroup>
+</Project>

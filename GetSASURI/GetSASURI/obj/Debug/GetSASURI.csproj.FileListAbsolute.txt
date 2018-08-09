@@ -1,0 +1,17 @@
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\GetSASURI.exe.config
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\GetSASURI.exe
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\GetSASURI.pdb
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Newtonsoft.Json.dll
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\bin\Debug\Newtonsoft.Json.xml
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\obj\Debug\GetSASURI.csproj.CoreCompileInputs.cache
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\obj\Debug\GetSASURI.csproj.CopyComplete
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\obj\Debug\GetSASURI.exe
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\obj\Debug\GetSASURI.pdb
+C:\Work\AzBatchSample\DeoApp\GetSASURI\GetSASURI\obj\Debug\GetSASURI.csprojResolveAssemblyReference.cache
